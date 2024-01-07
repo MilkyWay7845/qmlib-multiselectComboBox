@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MultiselectComboBox.qml</file>
+        <file>Tag.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>arrow-down.png</file>
+        <file>svg-cross.svg</file>
+        <file>arrow-down-white.png</file>
+        <file>svg-moon.svg</file>
+        <file>svg-sun.svg</file>
+        <file>svg-eye.svg</file>
+    </qresource>
+</RCC>
